@@ -32,8 +32,8 @@
 
 	/* about section */
 	#team-wrapper .member-pic {
-		width: 300px;
-		height: 300px;
+		width: 150px;
+		height: 150px;
 	}
 
 
@@ -351,8 +351,8 @@
 	}
 	/* about section */
 	#team-wrapper .member-pic {
-		width: 60px;
-		height: 60px;	
+		width: 120px;
+		height: 120px;	
 		margin-top: -30px;			
 	}
 	#team-wrapper .member-name { margin-left: 60px;	}
